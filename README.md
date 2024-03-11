@@ -1,2 +1,2 @@
-# AGMediaVideo-1.1.0
+# AGMediaVideo-1.1.3
 AGMediaVideo
